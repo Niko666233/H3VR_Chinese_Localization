@@ -1,1 +1,2 @@
-﻿
+﻿SpeedLoader=快速装弹器
+Speedloader=快速装弹器
