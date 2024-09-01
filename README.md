@@ -8,7 +8,9 @@
 
 更新：现已确认r2modman支持直接安装XUnity Auto Translator和此处的汉化文本，在下载好插件后打开r2modman，点击Settings-Import local mod，点击select file选择压缩包，点Import local mod，建议在安装好插件之后再安装此处的汉化文本。
 
-我知道上述操作很麻烦，所以我也会在[百度网盘](https://pan.baidu.com/s/1j_jNeXbjyXfTMtG5ExpTGA?pwd=n4ve)和Github发布完整版补丁，下载完打开，打开r2modman，点击Settings-Import local mod，点击select file选择压缩包，点Import local mod即可。
+我知道上述操作很麻烦，所以我也会在[百度网盘](https://pan.baidu.com/s/1j_jNeXbjyXfTMtG5ExpTGA?pwd=n4ve)和[Github](https://github.com/Niko666233/H3VR_Chinese_Localization/releases)发布完整版补丁，下载完打开，打开r2modman，点击Settings-Import local mod，点击select file选择压缩包，点Import local mod即可。
+
+视频安装教程：https://www.bilibili.com/video/BV1uJnfeoE3R
 
 ## English (If you can read this you probably don't need this)
 
