@@ -1,2 +1,4 @@
 ﻿SpeedLoader=快速装弹器
 Speedloader=快速装弹器
+SingleAction=单动式
+Watch The Latest H3VR Devlog at YOUTUBE.com/antonhand\nCheck out our Merch Store at store.RUSTLTD.com\nHaving Issues? Head to our STEAM COMMUNITY FORUM!\n\nRecent Addtions:\n-=在YOUTUBE.com/antonhand观看最新的 H3VR 开发日志\n在store.RUSTLTD.com查看我们的周边商店\n有问题？前往我们的 STEAM 社区论坛！\n\n最近更新：\n-
