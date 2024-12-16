@@ -493,3 +493,5 @@ Solstice=至日
 Target=目标
 Modular=模块化
 Modul=模块化
+Mustang=野马
+Sword=剑
