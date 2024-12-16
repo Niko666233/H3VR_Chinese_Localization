@@ -8,7 +8,7 @@
 
 ## **注意：有可能和别的mod冲突**
 
-目前已知汉化mod会和使用Newtonsoft.Json的模组冲突，例如[Stovepipe](https://thunderstore.io/c/h3vr/p/Smidgeon/Stovepipe/)和[MagBoop](https://thunderstore.io/c/h3vr/p/Smidgeon/MagBoop/)，实际情况因mod而异，原因未知，解决办法也未知，初步推测是XUnity Auto Translator版本太旧的问题，如果你有什么解决方法请务必告诉我。
+目前已知汉化mod会和使用Newtonsoft.Json的模组冲突，例如[Stovepipe](https://thunderstore.io/c/h3vr/p/Smidgeon/Stovepipe/)和[MagBoop](https://thunderstore.io/c/h3vr/p/Smidgeon/MagBoop/)，实际情况因mod而异，很遗憾的是这是XUnity Auto Translator的问题，我尝试了最新版本依然有这个问题，如果你有什么解决方法请务必告诉我。
 
 ## English (If you can read this you probably don't need this)
 
@@ -29,6 +29,6 @@ A mod for H3VR that uses [XUnity Auto Translator](https://github.com/bbepis/XUni
 
 ## 更新日志
 
-- 0.1.2: 更新汉化
+- 0.1.2: 更新汉化，XUnity Auto Translator更新至4.21.0（最后一个支持Resource Redirector 1.2.0的版本）
 - 0.1.1: 更新汉化
 - 0.1.0: 替换XUnity Auto Translator为旧版本，实现一键安装
