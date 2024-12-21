@@ -330,6 +330,7 @@ Timings=时间
 Yards=码
 Adapter=适配器
 Default: =默认：
+Default=默认
 Current File Name=当前文件名
 Creator: =创作者
 Magnification=放大
