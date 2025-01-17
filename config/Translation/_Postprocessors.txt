@@ -240,6 +240,7 @@ Ukraine=乌克兰
 SwissConfederation=瑞士联邦
 StateOfIsrael=以色列国
 RussianFederation=俄罗斯联邦
+RussianEmpire=沙皇俄国
 RepublicOfSouthAfrica=南非共和国
 RepublicOfKorea=大韩民国
 RepublicOfFinland=芬兰共和国
