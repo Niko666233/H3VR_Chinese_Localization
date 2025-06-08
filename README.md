@@ -23,7 +23,6 @@ A mod for H3VR that uses [XUnity Auto Translator](https://github.com/bbepis/XUni
 ## 致谢
 
 - XUnity Auto Translator制作组
-- 我仅剩的唯一一个真心朋友TengNB，虽然他连VR都没有
 - H3VR中文交流群，群号：495110970，国内的mod作者基本都在里面了，我也在里面当金牌客服，只要我有空基本有求必应，没事也欢迎在群里聊天吹水
 - 你
 - 做付费汉化的哥们，有钱一起恰，我的爱发电：<https://afdian.tv/a/Niko666>
@@ -32,12 +31,4 @@ A mod for H3VR that uses [XUnity Auto Translator](https://github.com/bbepis/XUni
 
 众所周知，本汉化基于XUnity Auto Translator，而XUnity Auto Translator需要XUnity ResourceRedirector作为依赖，由于之前版本的汉化使用的是最新版的XUnity Auto Translator，与Thunderstore的XUnity ResourceRedirector不兼容，而且由于Thunderstore无法上传“相同”的mod，所以之前的汉化不能附带最新版本的XUnity ResourceRedirector，要想上传就只能舍弃它，然后让用户手动安装。
 
-这个版本的汉化使用的是非常老旧版本的XUnity Auto Translator，解决了兼容性问题，如果你愿意帮忙汉化的话欢迎在[Github](https://github.com/Niko666233/H3VR_Chinese_Localization) Pull Requests，文本在config\Translation\里面的四个.txt文件里（实际上只用到了三个）。具体如何进行汉化建议看XUnity Auto Translator的官方文档。
-
-## 更新日志
-
-- 0.1.5: 更新汉化
-- 0.1.4: 修复mod冲突问题
-- 0.1.2: 更新汉化，XUnity Auto Translator更新至4.21.0（最后一个支持Resource Redirector 1.2.0的版本）
-- 0.1.1: 更新汉化
-- 0.1.0: 替换XUnity Auto Translator为旧版本，实现一键安装
+这个版本的汉化使用的是非常老旧版本的XUnity Auto Translator，解决了兼容性问题，如果你愿意帮忙汉化的话欢迎在[Github](https://github.com/Niko666233/H3VR_Chinese_Localization) Pull Requests，文本在config\Translation\里面的四个.txt文件里（实际上只用到了三个）。具体如何进行汉化建议看XUnity Auto Translator的官方文档。或者也可以在交流群里找我。
