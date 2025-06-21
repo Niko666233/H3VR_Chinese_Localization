@@ -18,12 +18,15 @@ A mod for H3VR that uses [XUnity Auto Translator](https://github.com/bbepis/XUni
 
 ## 汉化更新慢？
 
-由于Thunderstore的审核机制，每次更新汉化都要被自动审核退回（Invalid Submission），每次都要去Discord找管理员对线，所以我现在决定只在大版本更新时在Thunderstore更新汉化，其他的汉化更新会放在[爱发电](https://afdian.tv/a/Niko666)和[Github](https://github.com/Niko666233/H3VR_Chinese_Localization)上，等不及的话可以在上述地方下载最新版本的汉化。
+~~由于Thunderstore的审核机制，每次更新汉化都要被自动审核退回（Invalid Submission），每次都要去Discord找管理员对线，所以我现在决定只在大版本更新时在Thunderstore更新汉化，其他的汉化更新会放在[爱发电](https://afdian.tv/a/Niko666)和[Github](https://github.com/Niko666233/H3VR_Chinese_Localization)上，等不及的话可以在上述地方下载最新版本的汉化。~~
+
+通过分开上传汉化插件和文本，现在应该不会再出现这种情况了，~~现在更新慢纯粹就是因为我懒~~
 
 ## 致谢
 
 - XUnity Auto Translator制作组
 - H3VR中文交流群，群号：495110970，国内的mod作者基本都在里面了，我也在里面当金牌客服，只要我有空基本有求必应，没事也欢迎在群里聊天吹水
+- [AnnaKutou](https://github.com/AnnaKutou) 帮助修正了一些翻译错误
 - 你
 - 做付费汉化的哥们，有钱一起恰，我的爱发电：<https://afdian.tv/a/Niko666>
 
