@@ -1693,3 +1693,5 @@ Duration=持续时间
 Arizona=亚利桑那
 Mixtape=混音带
 Soundtrack=原声带
+W: =胜: 
+L: =负:
