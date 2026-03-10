@@ -1,5 +1,11 @@
 # 更新日志
 
+## 0.2.4
+
+- 适配了更多模组 （比如模块化格洛克）
+- 撤销强制字体设置 （会影响一些用特殊字体的文本）
+- 移动Meat Fortress聊天文本到独立文件
+
 ## 0.2.3
 
 - 适配 [OtherLoaderPatched](https://thunderstore.io/c/h3vr/p/Sirdoggy/OtherLoaderPatched/) (强烈推荐使用，可以修复很多老mod不显示之类的问题)
