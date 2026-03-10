@@ -19,7 +19,7 @@ A mod for H3VR that uses [XUnity Auto Translator](https://github.com/bbepis/XUni
 
 ## 感觉不如AI汉化，，
 
-![你是高手？](https://free.boltp.com/2026/01/23/69737b5335bfc.webp)
+![你是高手？](https://i.ibb.co/9mjYDVgZ/51035-E35-B12-ADE7527-F45-FEE37-FA6-E80.jpg)
 
 如果你觉得汉化烂，那就来建设它，欢迎在Q群联系我或是在[Github](https://github.com/Niko666233/H3VR_Chinese_Localization)提issue提PR之类的，无论你是来提交汉化后的文本、指出汉化错误、抑或是来提交未汉化的字符串或者询问如何帮助汉化项目等等，我都非常欢迎
 
