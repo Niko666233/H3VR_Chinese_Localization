@@ -1,5 +1,11 @@
 # 更新日志
 
+## 0.2.7
+
+- 适配更新120 Experimental 17
+- 适配模块化AR2+、团队竞技模式等新mod
+- 把OtherLoaderPatched加入依赖以防止再来问老Otherloader相关问题
+
 ## 0.2.6
 
 - 适配H3MP(联机方法在群文件)

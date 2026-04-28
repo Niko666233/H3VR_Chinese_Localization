@@ -2,9 +2,13 @@
 
 基于[XUnity Auto Translator](https://github.com/bbepis/XUnity.AutoTranslator)的汉化模组。未完全汉化，但给新手入门足够了，后面会不断完善。
 
+注意：如果要恢复游戏为英文，需要同时卸载H3VR_Localization_Base！
+
 ## English (If you can read this you probably don't need this)
 
 A mod for H3VR that uses [XUnity Auto Translator](https://github.com/bbepis/XUnity.AutoTranslator) to translate the game to Chinese. Very WIP. Now can be installed with one click, just like any other mods.
+
+Notice: To restore the game to English, you need to uninstall H3VR_Localization_Base as well!
 
 ## 当前汉化进度
 
