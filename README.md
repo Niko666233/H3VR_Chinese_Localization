@@ -13,7 +13,7 @@ Notice: To restore the game to English, you need to uninstall H3VR_Localization_
 ## 当前汉化进度
 
 - 本体：设置面板和手腕菜单100%，物品生成器99.99999%，各类游戏模式目前能汉化的都汉化了（有些模式的文字是嵌入进贴图的无法直接汉化，虽然理论上XUnity提供了贴图提取和替换功能，但是我懒，而且大多数人也不玩这些模式，所以等游戏正式版出来再考虑汉化这些）
-- 模组：对一部分热门mod（如模块化工坊系列和[补给突袭](https://thunderstore.io/c/h3vr/p/Packer/SupplyRaid/)游戏模式）进行了汉化适配，但我一个人不可能汉化所有mod，所以欢迎协助汉化
+- 模组：对一部分热门mod进行了汉化适配
 
 ## 汉化更新慢？
 
@@ -31,6 +31,6 @@ Notice: To restore the game to English, you need to uninstall H3VR_Localization_
 
 - XUnity Auto Translator制作组
 - H3VR中文交流群，群号：495110970，国内的mod作者基本都在里面了，我每天25小时高强度在群里当金牌客服，只要我有空基本有求必应，没事也欢迎在群里聊天吹水
-- [AnnaKutou](https://github.com/AnnaKutou) 帮助修正了一些翻译错误
+- [AnnaKutou](https://github.com/AnnaKutou) 和 NaPpK2N 帮助修正了一些翻译错误
 - 你
-- 做付费汉化的哥们，有钱一起恰，我的爱发电：<https://afdian.tv/a/Niko666>
+- 做付费汉化的哥们，有钱一起恰，我的爱发电：<https://afdian.com/a/Niko666>

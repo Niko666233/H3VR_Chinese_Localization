@@ -3,7 +3,7 @@
   "author": "Niko666",
   "version_number": "0.3.0",
   "description": "H3VR简体中文汉化补丁,恭喜H3VR 1.0正式版更新!(免费发布)(欢迎加入H3VR中文交流群:495110970)",
-  "website_url": "https://afdian.tv/a/Niko666",
+  "website_url": "https://github.com/Niko666233/H3VR_Chinese_Localization",
   "dependencies": [
     "BepInEx-BepInExPack_H3VR-5.4.1700",
     "bbepis-XUnity_ResourceRedirector-4.16.3",
